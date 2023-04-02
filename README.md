@@ -1,2 +1,2 @@
 # Comparing Co2 Emissions from Different Countries
-#test
+The purpose of this project is to compare the emission levels of the top 10 co2 emitters worldwide over the past 50 years. The data set was pulled from Our World in Data, a large scientific publication with lots of reputable data. The link to my data: https://raw.githubusercontent.com/owid/co2-data/master/owid-co2-data.csv. It was downloaded on 03/29/2023.
